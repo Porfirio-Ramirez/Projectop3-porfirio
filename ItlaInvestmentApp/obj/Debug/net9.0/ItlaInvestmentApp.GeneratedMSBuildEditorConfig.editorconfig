@@ -15,63 +15,65 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v9.0
 build_property.RootNamespace = ItlaInvestmentApp
 build_property.RootNamespace = ItlaInvestmentApp
-build_property.ProjectDir = C:\Users\DELL 5490\Documents\ProyectoDeAprendizajeP3\ItlaInvestmentApp\
+build_property.ProjectDir = C:\Users\poramirez\Projectop3-porfirio\ItlaInvestmentApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\DELL 5490\Documents\ProyectoDeAprendizajeP3\ItlaInvestmentApp
+build_property.MSBuildProjectDirectory = C:\Users\poramirez\Projectop3-porfirio\ItlaInvestmentApp
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/DELL 5490/Documents/ProyectoDeAprendizajeP3/ItlaInvestmentApp/Views/AssetType/Delete.cshtml]
+[C:/Users/poramirez/Projectop3-porfirio/ItlaInvestmentApp/Views/AssetType/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRUeXBlXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL 5490/Documents/ProyectoDeAprendizajeP3/ItlaInvestmentApp/Views/AssetType/Index.cshtml]
+[C:/Users/poramirez/Projectop3-porfirio/ItlaInvestmentApp/Views/AssetType/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRUeXBlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL 5490/Documents/ProyectoDeAprendizajeP3/ItlaInvestmentApp/Views/AssetType/Save.cshtml]
+[C:/Users/poramirez/Projectop3-porfirio/ItlaInvestmentApp/Views/AssetType/Save.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRUeXBlXFNhdmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL 5490/Documents/ProyectoDeAprendizajeP3/ItlaInvestmentApp/Views/Asset/Delete.cshtml]
+[C:/Users/poramirez/Projectop3-porfirio/ItlaInvestmentApp/Views/Asset/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL 5490/Documents/ProyectoDeAprendizajeP3/ItlaInvestmentApp/Views/Asset/Index.cshtml]
+[C:/Users/poramirez/Projectop3-porfirio/ItlaInvestmentApp/Views/Asset/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL 5490/Documents/ProyectoDeAprendizajeP3/ItlaInvestmentApp/Views/Asset/Save.cshtml]
+[C:/Users/poramirez/Projectop3-porfirio/ItlaInvestmentApp/Views/Asset/Save.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcU2F2ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL 5490/Documents/ProyectoDeAprendizajeP3/ItlaInvestmentApp/Views/Home/Index.cshtml]
+[C:/Users/poramirez/Projectop3-porfirio/ItlaInvestmentApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL 5490/Documents/ProyectoDeAprendizajeP3/ItlaInvestmentApp/Views/Shared/Error.cshtml]
+[C:/Users/poramirez/Projectop3-porfirio/ItlaInvestmentApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL 5490/Documents/ProyectoDeAprendizajeP3/ItlaInvestmentApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/poramirez/Projectop3-porfirio/ItlaInvestmentApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL 5490/Documents/ProyectoDeAprendizajeP3/ItlaInvestmentApp/Views/_ViewImports.cshtml]
+[C:/Users/poramirez/Projectop3-porfirio/ItlaInvestmentApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL 5490/Documents/ProyectoDeAprendizajeP3/ItlaInvestmentApp/Views/_ViewStart.cshtml]
+[C:/Users/poramirez/Projectop3-porfirio/ItlaInvestmentApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL 5490/Documents/ProyectoDeAprendizajeP3/ItlaInvestmentApp/Views/Shared/_Layout.cshtml]
+[C:/Users/poramirez/Projectop3-porfirio/ItlaInvestmentApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xm39mvgus8

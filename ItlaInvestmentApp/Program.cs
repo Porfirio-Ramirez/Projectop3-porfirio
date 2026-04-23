@@ -1,5 +1,5 @@
-using Persistence.Contexts;
 using Microsoft.EntityFrameworkCore;
+using ProyectoDeAprendizajeP3.Infrastruture.Persistence.Contexts;
 namespace ItlaInvestmentApp
 {
     public class Program
@@ -11,10 +11,7 @@ namespace ItlaInvestmentApp
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
-            var connectionstring = builder.Configuration.GetConnectionString("DefaultConnection");
-            builder.Services.AddDbContext<InvestmentContext>(opt =>
-                             opt.UseSqlServer(connectionstring));
-
+           
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

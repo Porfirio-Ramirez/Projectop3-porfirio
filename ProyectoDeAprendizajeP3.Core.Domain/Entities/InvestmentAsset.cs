@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ProyectoDeAprendizajeP3.Core.Domain.Entities;
 
-namespace Persistence.Entities
+namespace ProyectoDeAprendizajeP3.Core.Domain.Entities
 {
     public class InvestmentAsset
     {

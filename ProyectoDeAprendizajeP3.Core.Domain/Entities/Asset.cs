@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Persistence.Common;
+﻿using ProyectoDeAprendizajeP3.Core.Domain.Common;
 
-namespace Persistence.Entities
+
+namespace ProyectoDeAprendizajeP3.Core.Domain.Entities
 {
      public class Asset : BasicEntity<int>
     {

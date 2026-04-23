@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using Persistence.Contexts;
-using Persistence.Entities;
+using ProyectoDeAprendizajeP3.Infrastruture.Persistence.Contexts;
 
-namespace Persistence.Repositories
+namespace ProyectoDeAprendizajeP3.Infrastruture.Persistence.Repositories
 {
     public class AssetRepository
     {

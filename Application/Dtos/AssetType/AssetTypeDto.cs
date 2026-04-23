@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Dtos.AssetType
+namespace ProyectoDeAprendizajeP3.Core.Application.Dtos.AssetType
 {
     public class AssetTypeDto: BasicDto<int>
     {

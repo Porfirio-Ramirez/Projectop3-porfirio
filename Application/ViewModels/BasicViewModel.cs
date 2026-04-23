@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.ViewModel
+namespace ProyectoDeAprendizajeP3.Core.Application.ViewModels
 {
     public class BasicViewModel<Tkey>
     {

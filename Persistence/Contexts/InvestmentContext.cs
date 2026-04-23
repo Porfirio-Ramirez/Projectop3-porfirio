@@ -5,9 +5,8 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using Persistence.Entities;
 
-namespace Persistence.Contexts
+namespace ProyectoDeAprendizajeP3.Infrastruture.Persistence.Contexts
 {
     public class InvestmentContext : DbContext
     {

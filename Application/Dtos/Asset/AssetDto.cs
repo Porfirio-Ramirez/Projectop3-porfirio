@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Application.Dtos.AssetType;
+using ProyectoDeAprendizajeP3.Core.Application.Dtos.AssetType;
 
-namespace Application.Dtos.Asset
+namespace ProyectoDeAprendizajeP3.Core.Application.Dtos.Asset
 {
     public class AssetDto : BasicDto<int>
     {

@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Application.ViewModel;
-using Application.ViewModels.AssetType;
+using ProyectoDeAprendizajeP3.Core.Application.ViewModels.AssetType;
 
-namespace Application.ViewModels.Asset
+namespace ProyectoDeAprendizajeP3.Core.Application.ViewModels.Asset
 {
     public class AssetViewModel : BasicViewModel<int>
     {

@@ -3,14 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Application.Dtos.Asset;
-using Application.Dtos.AssetType;
 using Microsoft.EntityFrameworkCore;
-using Persistence.Contexts;
-using Persistence.Entities;
-using Persistence.Repositories;
+using ProyectoDeAprendizajeP3.Core.Application.Dtos.Asset;
+using ProyectoDeAprendizajeP3.Infrastruture.Persistence.Contexts;
+using ProyectoDeAprendizajeP3.Infrastruture.Persistence.Repositories;
 
-namespace Application.Services
+namespace ProyectoDeAprendizajeP3.Core.Application.Services
 {
     public class AssetService
     {

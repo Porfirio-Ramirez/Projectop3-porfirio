@@ -1,8 +1,8 @@
-﻿using Application.Dtos.AssetType;
-using Application.Services;
-using Application.ViewModels.AssetType;
-using Microsoft.AspNetCore.Mvc;
-using Persistence.Contexts;
+﻿using Microsoft.AspNetCore.Mvc;
+using ProyectoDeAprendizajeP3.Core.Application.Dtos.AssetType;
+using ProyectoDeAprendizajeP3.Core.Application.Services;
+using ProyectoDeAprendizajeP3.Core.Application.ViewModels.AssetType;
+using ProyectoDeAprendizajeP3.Infrastruture.Persistence.Contexts;
 
 namespace ItlaInvestmentApp.Controllers
 {

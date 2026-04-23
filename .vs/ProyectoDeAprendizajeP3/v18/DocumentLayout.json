@@ -1,0 +1,853 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\poramirez\\Projectop3-porfirio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30BD4DB4-B54B-4E1E-BAD7-5A9E26D2E505}|ProyectoDeAprendizajeP3.Core.Domain\\ProyectoDeAprendizajeP3.Core.Domain.csproj|c:\\users\\poramirez\\projectop3-porfirio\\proyectodeaprendizajep3.core.domain\\common\\basicentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BD4DB4-B54B-4E1E-BAD7-5A9E26D2E505}|ProyectoDeAprendizajeP3.Core.Domain\\ProyectoDeAprendizajeP3.Core.Domain.csproj|solutionrelative:proyectodeaprendizajep3.core.domain\\common\\basicentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|c:\\users\\poramirez\\projectop3-porfirio\\persistence\\repositories\\assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|solutionrelative:persistence\\repositories\\assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BD4DB4-B54B-4E1E-BAD7-5A9E26D2E505}|ProyectoDeAprendizajeP3.Core.Domain\\ProyectoDeAprendizajeP3.Core.Domain.csproj|c:\\users\\poramirez\\projectop3-porfirio\\proyectodeaprendizajep3.core.domain\\interfaces\\iassettyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BD4DB4-B54B-4E1E-BAD7-5A9E26D2E505}|ProyectoDeAprendizajeP3.Core.Domain\\ProyectoDeAprendizajeP3.Core.Domain.csproj|solutionrelative:proyectodeaprendizajep3.core.domain\\interfaces\\iassettyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|c:\\users\\poramirez\\projectop3-porfirio\\persistence\\repositories\\assettyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|solutionrelative:persistence\\repositories\\assettyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|c:\\users\\poramirez\\projectop3-porfirio\\persistence\\servicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|solutionrelative:persistence\\servicesregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\poramirez\\projectop3-porfirio\\itlainvestmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BD4DB4-B54B-4E1E-BAD7-5A9E26D2E505}|ProyectoDeAprendizajeP3.Core.Domain\\ProyectoDeAprendizajeP3.Core.Domain.csproj|c:\\users\\poramirez\\projectop3-porfirio\\proyectodeaprendizajep3.core.domain\\entities\\investmentportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BD4DB4-B54B-4E1E-BAD7-5A9E26D2E505}|ProyectoDeAprendizajeP3.Core.Domain\\ProyectoDeAprendizajeP3.Core.Domain.csproj|solutionrelative:proyectodeaprendizajep3.core.domain\\entities\\investmentportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BD4DB4-B54B-4E1E-BAD7-5A9E26D2E505}|ProyectoDeAprendizajeP3.Core.Domain\\ProyectoDeAprendizajeP3.Core.Domain.csproj|c:\\users\\poramirez\\projectop3-porfirio\\proyectodeaprendizajep3.core.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BD4DB4-B54B-4E1E-BAD7-5A9E26D2E505}|ProyectoDeAprendizajeP3.Core.Domain\\ProyectoDeAprendizajeP3.Core.Domain.csproj|solutionrelative:proyectodeaprendizajep3.core.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BD4DB4-B54B-4E1E-BAD7-5A9E26D2E505}|ProyectoDeAprendizajeP3.Core.Domain\\ProyectoDeAprendizajeP3.Core.Domain.csproj|c:\\users\\poramirez\\projectop3-porfirio\\proyectodeaprendizajep3.core.domain\\entities\\investmentasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BD4DB4-B54B-4E1E-BAD7-5A9E26D2E505}|ProyectoDeAprendizajeP3.Core.Domain\\ProyectoDeAprendizajeP3.Core.Domain.csproj|solutionrelative:proyectodeaprendizajep3.core.domain\\entities\\investmentasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BD4DB4-B54B-4E1E-BAD7-5A9E26D2E505}|ProyectoDeAprendizajeP3.Core.Domain\\ProyectoDeAprendizajeP3.Core.Domain.csproj|c:\\users\\poramirez\\projectop3-porfirio\\proyectodeaprendizajep3.core.domain\\entities\\assettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BD4DB4-B54B-4E1E-BAD7-5A9E26D2E505}|ProyectoDeAprendizajeP3.Core.Domain\\ProyectoDeAprendizajeP3.Core.Domain.csproj|solutionrelative:proyectodeaprendizajep3.core.domain\\entities\\assettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BD4DB4-B54B-4E1E-BAD7-5A9E26D2E505}|ProyectoDeAprendizajeP3.Core.Domain\\ProyectoDeAprendizajeP3.Core.Domain.csproj|c:\\users\\poramirez\\projectop3-porfirio\\proyectodeaprendizajep3.core.domain\\entities\\assethistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BD4DB4-B54B-4E1E-BAD7-5A9E26D2E505}|ProyectoDeAprendizajeP3.Core.Domain\\ProyectoDeAprendizajeP3.Core.Domain.csproj|solutionrelative:proyectodeaprendizajep3.core.domain\\entities\\assethistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30BD4DB4-B54B-4E1E-BAD7-5A9E26D2E505}|ProyectoDeAprendizajeP3.Core.Domain\\ProyectoDeAprendizajeP3.Core.Domain.csproj|c:\\users\\poramirez\\projectop3-porfirio\\proyectodeaprendizajep3.core.domain\\entities\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BD4DB4-B54B-4E1E-BAD7-5A9E26D2E505}|ProyectoDeAprendizajeP3.Core.Domain\\ProyectoDeAprendizajeP3.Core.Domain.csproj|solutionrelative:proyectodeaprendizajep3.core.domain\\entities\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|c:\\users\\poramirez\\projectop3-porfirio\\persistence\\entityconfigurations\\userentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|solutionrelative:persistence\\entityconfigurations\\userentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|c:\\users\\poramirez\\projectop3-porfirio\\persistence\\entityconfigurations\\investmentportfolioentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|solutionrelative:persistence\\entityconfigurations\\investmentportfolioentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|c:\\users\\poramirez\\projectop3-porfirio\\persistence\\entityconfigurations\\investmentassetentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|solutionrelative:persistence\\entityconfigurations\\investmentassetentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|c:\\users\\poramirez\\projectop3-porfirio\\persistence\\entityconfigurations\\assettypeentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|solutionrelative:persistence\\entityconfigurations\\assettypeentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|c:\\users\\poramirez\\projectop3-porfirio\\persistence\\entityconfigurations\\assethistoryentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|solutionrelative:persistence\\entityconfigurations\\assethistoryentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|c:\\users\\poramirez\\projectop3-porfirio\\persistence\\entityconfigurations\\assetentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|solutionrelative:persistence\\entityconfigurations\\assetentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|c:\\users\\poramirez\\projectop3-porfirio\\persistence\\contexts\\investmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|solutionrelative:persistence\\contexts\\investmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|c:\\users\\poramirez\\projectop3-porfirio\\application\\viewmodels\\assettype\\saveassettypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|solutionrelative:application\\viewmodels\\assettype\\saveassettypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|c:\\users\\poramirez\\projectop3-porfirio\\application\\viewmodels\\basicviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|solutionrelative:application\\viewmodels\\basicviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|c:\\users\\poramirez\\projectop3-porfirio\\application\\viewmodels\\assettype\\deleteassettypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|solutionrelative:application\\viewmodels\\assettype\\deleteassettypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|c:\\users\\poramirez\\projectop3-porfirio\\application\\viewmodels\\assettype\\assettypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|solutionrelative:application\\viewmodels\\assettype\\assettypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|c:\\users\\poramirez\\projectop3-porfirio\\application\\viewmodels\\asset\\saveassetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|solutionrelative:application\\viewmodels\\asset\\saveassetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|c:\\users\\poramirez\\projectop3-porfirio\\application\\viewmodels\\asset\\deleteassetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|solutionrelative:application\\viewmodels\\asset\\deleteassetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|c:\\users\\poramirez\\projectop3-porfirio\\application\\viewmodels\\asset\\assetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|solutionrelative:application\\viewmodels\\asset\\assetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|c:\\users\\poramirez\\projectop3-porfirio\\application\\services\\assettypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|solutionrelative:application\\services\\assettypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|c:\\users\\poramirez\\projectop3-porfirio\\application\\services\\assetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|solutionrelative:application\\services\\assetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|c:\\users\\poramirez\\projectop3-porfirio\\application\\dtos\\basicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|solutionrelative:application\\dtos\\basicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|c:\\users\\poramirez\\projectop3-porfirio\\application\\dtos\\assettype\\assettypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|solutionrelative:application\\dtos\\assettype\\assettypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|c:\\users\\poramirez\\projectop3-porfirio\\application\\dtos\\asset\\assetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|solutionrelative:application\\dtos\\asset\\assetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|c:\\users\\poramirez\\projectop3-porfirio\\persistence\\proyectodeaprendizajep3.infrastruture.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj|solutionrelative:persistence\\proyectodeaprendizajep3.infrastruture.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\poramirez\\projectop3-porfirio\\itlainvestmentapp\\controllers\\assettypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\controllers\\assettypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|c:\\users\\poramirez\\projectop3-porfirio\\application\\proyectodeaprendizajep3.core.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\ProyectoDeAprendizajeP3.Core.Application.csproj|solutionrelative:application\\proyectodeaprendizajep3.core.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\poramirez\\projectop3-porfirio\\itlainvestmentapp\\itlainvestmentapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\itlainvestmentapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\poramirez\\projectop3-porfirio\\itlainvestmentapp\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\poramirez\\projectop3-porfirio\\itlainvestmentapp\\views\\asset\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\asset\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\poramirez\\projectop3-porfirio\\itlainvestmentapp\\views\\assettype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\assettype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\poramirez\\projectop3-porfirio\\itlainvestmentapp\\views\\assettype\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\assettype\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\poramirez\\projectop3-porfirio\\itlainvestmentapp\\views\\assettype\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\assettype\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\poramirez\\projectop3-porfirio\\itlainvestmentapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\poramirez\\projectop3-porfirio\\itlainvestmentapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\poramirez\\projectop3-porfirio\\itlainvestmentapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\poramirez\\projectop3-porfirio\\itlainvestmentapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\poramirez\\projectop3-porfirio\\itlainvestmentapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\poramirez\\projectop3-porfirio\\itlainvestmentapp\\views\\asset\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\asset\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\poramirez\\projectop3-porfirio\\itlainvestmentapp\\views\\asset\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\asset\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\poramirez\\projectop3-porfirio\\itlainvestmentapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\poramirez\\projectop3-porfirio\\itlainvestmentapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAssetTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ProyectoDeAprendizajeP3.Core.Domain\\Interfaces\\IAssetTypeRepository.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAprendizajeP3.Core.Domain\\Interfaces\\IAssetTypeRepository.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ProyectoDeAprendizajeP3.Core.Domain\\Interfaces\\IAssetTypeRepository.cs",
+              "RelativeToolTip": "ProyectoDeAprendizajeP3.Core.Domain\\Interfaces\\IAssetTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T14:43:22.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServicesRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\ServicesRegistration.cs",
+              "RelativeDocumentMoniker": "Persistence\\ServicesRegistration.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\ServicesRegistration.cs",
+              "RelativeToolTip": "Persistence\\ServicesRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:17:29.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\Repositories\\AssetRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\AssetRepository.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\Repositories\\AssetRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\AssetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssetTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\Repositories\\AssetTypeRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\AssetTypeRepository.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\Repositories\\AssetTypeRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\AssetTypeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasicEntity.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ProyectoDeAprendizajeP3.Core.Domain\\Common\\BasicEntity.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAprendizajeP3.Core.Domain\\Common\\BasicEntity.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ProyectoDeAprendizajeP3.Core.Domain\\Common\\BasicEntity.cs",
+              "RelativeToolTip": "ProyectoDeAprendizajeP3.Core.Domain\\Common\\BasicEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:50:05.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssetHistory.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ProyectoDeAprendizajeP3.Core.Domain\\Entities\\AssetHistory.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAprendizajeP3.Core.Domain\\Entities\\AssetHistory.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ProyectoDeAprendizajeP3.Core.Domain\\Entities\\AssetHistory.cs",
+              "RelativeToolTip": "ProyectoDeAprendizajeP3.Core.Domain\\Entities\\AssetHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:50:09.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ProyectoDeAprendizajeP3.Core.Domain\\Entities\\Asset.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAprendizajeP3.Core.Domain\\Entities\\Asset.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ProyectoDeAprendizajeP3.Core.Domain\\Entities\\Asset.cs",
+              "RelativeToolTip": "ProyectoDeAprendizajeP3.Core.Domain\\Entities\\Asset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:53:08.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Program.cs",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Program.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Program.cs",
+              "RelativeToolTip": "ItlaInvestmentApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "RelativeToolTip": "Persistence\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssetType.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ProyectoDeAprendizajeP3.Core.Domain\\Entities\\AssetType.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAprendizajeP3.Core.Domain\\Entities\\AssetType.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ProyectoDeAprendizajeP3.Core.Domain\\Entities\\AssetType.cs",
+              "RelativeToolTip": "ProyectoDeAprendizajeP3.Core.Domain\\Entities\\AssetType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:53:57.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvestmentAsset.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ProyectoDeAprendizajeP3.Core.Domain\\Entities\\InvestmentAsset.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAprendizajeP3.Core.Domain\\Entities\\InvestmentAsset.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ProyectoDeAprendizajeP3.Core.Domain\\Entities\\InvestmentAsset.cs",
+              "RelativeToolTip": "ProyectoDeAprendizajeP3.Core.Domain\\Entities\\InvestmentAsset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:50:11.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvestmentPortfolio.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ProyectoDeAprendizajeP3.Core.Domain\\Entities\\InvestmentPortfolio.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAprendizajeP3.Core.Domain\\Entities\\InvestmentPortfolio.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ProyectoDeAprendizajeP3.Core.Domain\\Entities\\InvestmentPortfolio.cs",
+              "RelativeToolTip": "ProyectoDeAprendizajeP3.Core.Domain\\Entities\\InvestmentPortfolio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:54:29.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ProyectoDeAprendizajeP3.Core.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ProyectoDeAprendizajeP3.Core.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ProyectoDeAprendizajeP3.Core.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "ProyectoDeAprendizajeP3.Core.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:54:43.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvestmentPortfolioEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\EntityConfigurations\\InvestmentPortfolioEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\EntityConfigurations\\InvestmentPortfolioEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\EntityConfigurations\\InvestmentPortfolioEntityConfiguration.cs",
+              "RelativeToolTip": "Persistence\\EntityConfigurations\\InvestmentPortfolioEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InvestmentAssetEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\EntityConfigurations\\InvestmentAssetEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\EntityConfigurations\\InvestmentAssetEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\EntityConfigurations\\InvestmentAssetEntityConfiguration.cs",
+              "RelativeToolTip": "Persistence\\EntityConfigurations\\InvestmentAssetEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssetTypeEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\EntityConfigurations\\AssetTypeEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\EntityConfigurations\\AssetTypeEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\EntityConfigurations\\AssetTypeEntityConfiguration.cs",
+              "RelativeToolTip": "Persistence\\EntityConfigurations\\AssetTypeEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AssetHistoryEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\EntityConfigurations\\AssetHistoryEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\EntityConfigurations\\AssetHistoryEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\EntityConfigurations\\AssetHistoryEntityConfiguration.cs",
+              "RelativeToolTip": "Persistence\\EntityConfigurations\\AssetHistoryEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssetEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\EntityConfigurations\\AssetEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\EntityConfigurations\\AssetEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\EntityConfigurations\\AssetEntityConfiguration.cs",
+              "RelativeToolTip": "Persistence\\EntityConfigurations\\AssetEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InvestmentContext.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\Contexts\\InvestmentContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\Contexts\\InvestmentContext.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\Contexts\\InvestmentContext.cs",
+              "RelativeToolTip": "Persistence\\Contexts\\InvestmentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SaveAssetTypeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\ViewModels\\AssetType\\SaveAssetTypeViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\AssetType\\SaveAssetTypeViewModel.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\ViewModels\\AssetType\\SaveAssetTypeViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\AssetType\\SaveAssetTypeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BasicViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\ViewModels\\BasicViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\BasicViewModel.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\ViewModels\\BasicViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\BasicViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeleteAssetTypeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\ViewModels\\AssetType\\DeleteAssetTypeViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\AssetType\\DeleteAssetTypeViewModel.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\ViewModels\\AssetType\\DeleteAssetTypeViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\AssetType\\DeleteAssetTypeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssetTypeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\ViewModels\\AssetType\\AssetTypeViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\AssetType\\AssetTypeViewModel.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\ViewModels\\AssetType\\AssetTypeViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\AssetType\\AssetTypeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SaveAssetViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\ViewModels\\Asset\\SaveAssetViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\Asset\\SaveAssetViewModel.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\ViewModels\\Asset\\SaveAssetViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\Asset\\SaveAssetViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DeleteAssetViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\ViewModels\\Asset\\DeleteAssetViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\Asset\\DeleteAssetViewModel.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\ViewModels\\Asset\\DeleteAssetViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\Asset\\DeleteAssetViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AssetViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\ViewModels\\Asset\\AssetViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\Asset\\AssetViewModel.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\ViewModels\\Asset\\AssetViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\Asset\\AssetViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AssetTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\Services\\AssetTypeService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AssetTypeService.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\Services\\AssetTypeService.cs",
+              "RelativeToolTip": "Application\\Services\\AssetTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AssetService.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\Services\\AssetService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AssetService.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\Services\\AssetService.cs",
+              "RelativeToolTip": "Application\\Services\\AssetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BasicDto.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\Dtos\\BasicDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\BasicDto.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\Dtos\\BasicDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\BasicDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AssetTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\Dtos\\AssetType\\AssetTypeDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\AssetType\\AssetTypeDto.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\Dtos\\AssetType\\AssetTypeDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\AssetType\\AssetTypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AssetDto.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\Dtos\\Asset\\AssetDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\Asset\\AssetDto.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\Dtos\\Asset\\AssetDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\Asset\\AssetDto.cs",
+              "ViewState": "AgIAAAAAAACAoOGk7ssXwAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AssetTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Controllers\\AssetTypeController.cs",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Controllers\\AssetTypeController.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Controllers\\AssetTypeController.cs",
+              "RelativeToolTip": "ItlaInvestmentApp\\Controllers\\AssetTypeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ItlaInvestmentApp.csproj",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\ItlaInvestmentApp.csproj",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\ItlaInvestmentApp.csproj",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\ItlaInvestmentApp.csproj",
+              "RelativeToolTip": "ItlaInvestmentApp\\ItlaInvestmentApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T12:28:19.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj",
+              "RelativeDocumentMoniker": "Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj",
+              "RelativeToolTip": "Persistence\\ProyectoDeAprendizajeP3.Infrastruture.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T12:28:19.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProyectoDeAprendizajeP3.Core.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\ProyectoDeAprendizajeP3.Core.Application.csproj",
+              "RelativeDocumentMoniker": "Application\\ProyectoDeAprendizajeP3.Core.Application.csproj",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\Application\\ProyectoDeAprendizajeP3.Core.Application.csproj",
+              "RelativeToolTip": "Application\\ProyectoDeAprendizajeP3.Core.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-23T12:28:19.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Save.cshtml",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\Asset\\Save.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\Asset\\Save.cshtml",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\Asset\\Save.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\Asset\\Save.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T12:28:19.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AssetController.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Controllers\\AssetController.cs",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Controllers\\AssetController.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Controllers\\AssetController.cs",
+              "RelativeToolTip": "ItlaInvestmentApp\\Controllers\\AssetController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAuwFgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T12:28:19.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T12:28:19.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwDEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T12:28:19.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Save.cshtml",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\AssetType\\Save.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\AssetType\\Save.cshtml",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\AssetType\\Save.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\AssetType\\Save.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T12:28:19.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\AssetType\\Index.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\AssetType\\Index.cshtml",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\AssetType\\Index.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\AssetType\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T12:28:19.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\AssetType\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\AssetType\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\AssetType\\Delete.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\AssetType\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T12:28:19.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T12:28:19.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\Asset\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\Asset\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\Asset\\Delete.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\Asset\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T12:28:19.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\Asset\\Index.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\Asset\\Index.cshtml",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\Asset\\Index.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\Asset\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T12:28:19.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ItlaInvestmentApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T12:28:19.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T12:28:19.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\poramirez\\Projectop3-porfirio\\ItlaInvestmentApp\\appsettings.json",
+              "RelativeToolTip": "ItlaInvestmentApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-23T12:28:19.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

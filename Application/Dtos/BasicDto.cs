@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Dtos
+namespace ProyectoDeAprendizajeP3.Core.Application.Dtos
 {
     public class BasicDto<Tkey>
     {

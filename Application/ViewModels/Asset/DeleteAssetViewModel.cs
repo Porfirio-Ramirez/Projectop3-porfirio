@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.ViewModels.Asset
+namespace ProyectoDeAprendizajeP3.Core.Application.ViewModels.Asset
 {
     public class DeleteAssetViewModel
     {

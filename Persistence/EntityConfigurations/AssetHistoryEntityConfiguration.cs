@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Persistence.Entities;
 
-namespace Persistence.EntityConfigurations
+namespace ProyectoDeAprendizajeP3.Infrastruture.Persistence.EntityConfigurations
 {
     public class AssetHistoryEntityConfiguration : IEntityTypeConfiguration<AssetHistory>
     {
