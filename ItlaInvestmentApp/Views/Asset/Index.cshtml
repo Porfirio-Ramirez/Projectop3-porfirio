@@ -1,0 +1,47 @@
+﻿@model List<AssetViewModel>;
+@{
+    ViewData["Title"] = "Asset types";
+}
+
+<div class="row">
+    <div class="text-center">
+        <h1 class="display-4">Assets</h1>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <div class="col-12 col-md-3">
+        <a class="btn btn-outline-success" asp-controller="Asset" asp-action="Create">+ New asset</a>
+    </div>
+
+</div>
+
+<div class="row mt-2">
+    @if (Model.Count == 0)
+    {
+        <div class="text-center">
+            <h4 class="display-4">There aren't assets</h4>
+        </div>
+    }
+    else
+    {
+        foreach (var item in Model)
+        {
+            <div class="col-12 col-md-3">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Name @(item.AssetType != null ? "-" + item.AssetType.Name : "")</h5>
+                        <h6 class="card-subtitle">@item.Symbol</h6>
+                        <p class="card-text mt-2">
+                            @item.Description
+                        </p>
+                        <div class="mt-2">
+                            <a class="btn btn-outline-warning float-end" asp-controller="Asset" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
+                            <a class="btn btn-outline-danger float-end me-2" asp-controller="Asset" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+</div>

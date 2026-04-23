@@ -1,0 +1,32 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Reflection;
+using System.Text;
+using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using Persistence.Entities;
+
+namespace Persistence.Contexts
+{
+    public class InvestmentContext : DbContext
+    {
+        public InvestmentContext(DbContextOptions<InvestmentContext> options) : base(options) { }
+
+        public DbSet<User> Users { get; set; }
+        public DbSet<Asset> Assets { get; set; }
+        public DbSet<AssetHistory> assetHistories { get; set; }
+        public DbSet<AssetType> assetTypes{ get; set; }
+        public DbSet<InvestmentAsset> investmentAssets { get; set; }
+        public DbSet<InvestmentPortfolio> investmentPortfolios { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
+        }
+    }
+
+   
+}

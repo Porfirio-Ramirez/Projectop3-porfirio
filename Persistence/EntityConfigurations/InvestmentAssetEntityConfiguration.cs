@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using Persistence.Entities;
+
+namespace Persistence.EntityConfigurations
+{
+    public class InvestmentAssetEntityConfiguration : IEntityTypeConfiguration<InvestmentAsset>
+    {
+        public void Configure(EntityTypeBuilder<InvestmentAsset> builder)
+        {
+            #region Basic Configuration
+            builder.HasKey(x => new { x.InvestmentPortfolioId, x.AssetId });
+            builder.ToTable("InvestmentAssets");
+            #endregion
+
+            #region Relationship
+            builder.HasOne<Asset>(a => a.asset)
+                   .WithMany(i => i.investmentAssets)
+                   .HasForeignKey(i => i.AssetId)
+                   .OnDelete(DeleteBehavior.Cascade);
+
+            builder.HasOne<InvestmentPortfolio>(p => p.investmentPortfolio)
+                   .WithMany(i => i.investmentAssets)
+                   .HasForeignKey(i => i.InvestmentPortfolioId)
+                   .OnDelete(DeleteBehavior.Cascade);
+            #endregion
+        }
+    }
+}

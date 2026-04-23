@@ -1,0 +1,835 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\itlainvestmentapp\\controllers\\assettypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\controllers\\assettypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\itlainvestmentapp\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\controllers\\assetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\application\\viewmodels\\assettype\\saveassettypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|solutionrelative:application\\viewmodels\\assettype\\saveassettypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\application\\viewmodels\\asset\\saveassetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|solutionrelative:application\\viewmodels\\asset\\saveassetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\itlainvestmentapp\\views\\asset\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\asset\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\itlainvestmentapp\\views\\assettype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\assettype\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\itlainvestmentapp\\views\\assettype\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\assettype\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\itlainvestmentapp\\views\\assettype\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\assettype\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\itlainvestmentapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\itlainvestmentapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\application\\services\\assetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|solutionrelative:application\\services\\assetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\itlainvestmentapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\itlainvestmentapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\itlainvestmentapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\itlainvestmentapp\\views\\asset\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\asset\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\itlainvestmentapp\\views\\asset\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\asset\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\application\\viewmodels\\assettype\\deleteassettypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|solutionrelative:application\\viewmodels\\assettype\\deleteassettypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\application\\viewmodels\\assettype\\assettypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|solutionrelative:application\\viewmodels\\assettype\\assettypeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\application\\viewmodels\\asset\\deleteassetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|solutionrelative:application\\viewmodels\\asset\\deleteassetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\application\\viewmodels\\asset\\assetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|solutionrelative:application\\viewmodels\\asset\\assetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\application\\viewmodels\\basicviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|solutionrelative:application\\viewmodels\\basicviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\application\\services\\assettypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|solutionrelative:application\\services\\assettypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\persistence\\repositories\\assettyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\assettyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\application\\dtos\\basicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|solutionrelative:application\\dtos\\basicdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\persistence\\entities\\assettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\entities\\assettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\application\\dtos\\assettype\\assettypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|solutionrelative:application\\dtos\\assettype\\assettypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\persistence\\entities\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\entities\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\application\\dtos\\asset\\assetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D978D68-2C43-4682-B827-595658A64D33}|Application\\Application.csproj|solutionrelative:application\\dtos\\asset\\assetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\persistence\\repositories\\assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\persistence\\common\\basicentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\common\\basicentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\persistence\\migrations\\20260415023822_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\migrations\\20260415023822_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\persistence\\migrations\\investmentcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\migrations\\investmentcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\itlainvestmentapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\itlainvestmentapp\\itlainvestmentapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\itlainvestmentapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\itlainvestmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\itlainvestmentapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5034320B-3E6A-44A7-95A8-FE163EA82F7F}|ItlaInvestmentApp\\ItlaInvestmentApp.csproj|solutionrelative:itlainvestmentapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\persistence\\entityconfigurations\\assetentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\entityconfigurations\\assetentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\persistence\\entityconfigurations\\investmentportfolioentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\entityconfigurations\\investmentportfolioentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\persistence\\entityconfigurations\\userentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\entityconfigurations\\userentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\persistence\\entityconfigurations\\investmentassetentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\entityconfigurations\\investmentassetentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\persistence\\entityconfigurations\\assettypeentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\entityconfigurations\\assettypeentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\persistence\\entityconfigurations\\assethistoryentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\entityconfigurations\\assethistoryentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\persistence\\entities\\assethistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\entities\\assethistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\persistence\\entities\\investmentportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\entities\\investmentportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\persistence\\contexts\\investmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\contexts\\investmentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\persistence\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\persistence\\entities\\investmentasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\entities\\investmentasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|c:\\users\\dell 5490\\documents\\proyectodeaprendizajep3\\persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B477F36-E6DD-4C80-A389-5726F3C398D4}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssetController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Controllers\\AssetController.cs",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Controllers\\AssetController.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Controllers\\AssetController.cs",
+              "RelativeToolTip": "ItlaInvestmentApp\\Controllers\\AssetController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAuwFgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T01:46:14.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SaveAssetViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\ViewModels\\Asset\\SaveAssetViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\Asset\\SaveAssetViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\ViewModels\\Asset\\SaveAssetViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\Asset\\SaveAssetViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T22:58:16.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaveAssetTypeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\ViewModels\\AssetType\\SaveAssetTypeViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\AssetType\\SaveAssetTypeViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\ViewModels\\AssetType\\SaveAssetTypeViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\AssetType\\SaveAssetTypeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T23:11:22.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssetTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Controllers\\AssetTypeController.cs",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Controllers\\AssetTypeController.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Controllers\\AssetTypeController.cs",
+              "RelativeToolTip": "ItlaInvestmentApp\\Controllers\\AssetTypeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwEUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T04:46:49.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Save.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\Asset\\Save.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\Asset\\Save.cshtml",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\Asset\\Save.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\Asset\\Save.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwB0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T02:47:49.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T04:39:21.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-15T02:34:32.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwDEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T04:34:27.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Save.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\AssetType\\Save.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\AssetType\\Save.cshtml",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\AssetType\\Save.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\AssetType\\Save.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T20:22:35.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\AssetType\\Index.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\AssetType\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\AssetType\\Index.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\AssetType\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T20:22:49.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\AssetType\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\AssetType\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\AssetType\\Delete.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\AssetType\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T20:23:05.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T04:33:27.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\Asset\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\Asset\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\Asset\\Delete.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\Asset\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T04:32:49.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssetService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\Services\\AssetService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AssetService.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\Services\\AssetService.cs",
+              "RelativeToolTip": "Application\\Services\\AssetService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA5wH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T23:19:24.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\Asset\\Index.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\Asset\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\Asset\\Index.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\Asset\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T04:31:52.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ItlaInvestmentApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T02:34:23.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeleteAssetTypeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\ViewModels\\AssetType\\DeleteAssetTypeViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\AssetType\\DeleteAssetTypeViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\ViewModels\\AssetType\\DeleteAssetTypeViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\AssetType\\DeleteAssetTypeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T23:04:45.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeleteAssetViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\ViewModels\\Asset\\DeleteAssetViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\Asset\\DeleteAssetViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\ViewModels\\Asset\\DeleteAssetViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\Asset\\DeleteAssetViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T22:56:39.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AssetTypeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\ViewModels\\AssetType\\AssetTypeViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\AssetType\\AssetTypeViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\ViewModels\\AssetType\\AssetTypeViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\AssetType\\AssetTypeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T22:55:29.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AssetViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\ViewModels\\Asset\\AssetViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\Asset\\AssetViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\ViewModels\\Asset\\AssetViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\Asset\\AssetViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T22:53:17.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BasicViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\ViewModels\\BasicViewModel.cs",
+              "RelativeDocumentMoniker": "Application\\ViewModels\\BasicViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\ViewModels\\BasicViewModel.cs",
+              "RelativeToolTip": "Application\\ViewModels\\BasicViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T22:48:51.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssetTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\Services\\AssetTypeService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AssetTypeService.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\Services\\AssetTypeService.cs",
+              "RelativeToolTip": "Application\\Services\\AssetTypeService.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAswH4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T16:50:02.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BasicDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\Dtos\\BasicDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\BasicDto.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\Dtos\\BasicDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\BasicDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T23:10:15.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AssetTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Repositories\\AssetTypeRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\AssetTypeRepository.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Repositories\\AssetTypeRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\AssetTypeRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T21:36:27.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-16T23:19:04.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AssetType.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Entities\\AssetType.cs",
+              "RelativeDocumentMoniker": "Persistence\\Entities\\AssetType.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Entities\\AssetType.cs",
+              "RelativeToolTip": "Persistence\\Entities\\AssetType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T23:52:07.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AssetTypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\Dtos\\AssetType\\AssetTypeDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\AssetType\\AssetTypeDto.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\Dtos\\AssetType\\AssetTypeDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\AssetType\\AssetTypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T23:14:32.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AssetDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\Dtos\\Asset\\AssetDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\Asset\\AssetDto.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Application\\Dtos\\Asset\\AssetDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\Asset\\AssetDto.cs",
+              "ViewState": "AgIAAAAAAACAoOGk7ssXwA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T23:13:10.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AssetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Repositories\\AssetRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\AssetRepository.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Repositories\\AssetRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\AssetRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T23:41:32.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Entities\\Asset.cs",
+              "RelativeDocumentMoniker": "Persistence\\Entities\\Asset.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Entities\\Asset.cs",
+              "RelativeToolTip": "Persistence\\Entities\\Asset.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T23:43:41.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "InvestmentContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Migrations\\InvestmentContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Persistence\\Migrations\\InvestmentContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Migrations\\InvestmentContextModelSnapshot.cs",
+              "RelativeToolTip": "Persistence\\Migrations\\InvestmentContextModelSnapshot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T02:41:54.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BasicEntity.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Common\\BasicEntity.cs",
+              "RelativeDocumentMoniker": "Persistence\\Common\\BasicEntity.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Common\\BasicEntity.cs",
+              "RelativeToolTip": "Persistence\\Common\\BasicEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T23:54:26.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20260415023822_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Migrations\\20260415023822_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Persistence\\Migrations\\20260415023822_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Migrations\\20260415023822_InitialMigration.cs",
+              "RelativeToolTip": "Persistence\\Migrations\\20260415023822_InitialMigration.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAYwCAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T02:38:22.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ItlaInvestmentApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-15T02:35:22.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ItlaInvestmentApp.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\ItlaInvestmentApp.csproj",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\ItlaInvestmentApp.csproj",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\ItlaInvestmentApp.csproj",
+              "RelativeToolTip": "ItlaInvestmentApp\\ItlaInvestmentApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-14T23:42:15.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Program.cs",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\Program.cs",
+              "RelativeToolTip": "ItlaInvestmentApp\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T23:23:05.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ItlaInvestmentApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\ItlaInvestmentApp\\appsettings.json",
+              "RelativeToolTip": "ItlaInvestmentApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-14T23:04:20.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AssetEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\EntityConfigurations\\AssetEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\EntityConfigurations\\AssetEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\EntityConfigurations\\AssetEntityConfiguration.cs",
+              "RelativeToolTip": "Persistence\\EntityConfigurations\\AssetEntityConfiguration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T23:25:22.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InvestmentPortfolioEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\EntityConfigurations\\InvestmentPortfolioEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\EntityConfigurations\\InvestmentPortfolioEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\EntityConfigurations\\InvestmentPortfolioEntityConfiguration.cs",
+              "RelativeToolTip": "Persistence\\EntityConfigurations\\InvestmentPortfolioEntityConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T22:28:06.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "InvestmentAssetEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\EntityConfigurations\\InvestmentAssetEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\EntityConfigurations\\InvestmentAssetEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\EntityConfigurations\\InvestmentAssetEntityConfiguration.cs",
+              "RelativeToolTip": "Persistence\\EntityConfigurations\\InvestmentAssetEntityConfiguration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T22:03:58.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "RelativeToolTip": "Persistence\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T22:37:05.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AssetTypeEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\EntityConfigurations\\AssetTypeEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\EntityConfigurations\\AssetTypeEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\EntityConfigurations\\AssetTypeEntityConfiguration.cs",
+              "RelativeToolTip": "Persistence\\EntityConfigurations\\AssetTypeEntityConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:46:38.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AssetHistoryEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\EntityConfigurations\\AssetHistoryEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Persistence\\EntityConfigurations\\AssetHistoryEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\EntityConfigurations\\AssetHistoryEntityConfiguration.cs",
+              "RelativeToolTip": "Persistence\\EntityConfigurations\\AssetHistoryEntityConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T21:38:38.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AssetHistory.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Entities\\AssetHistory.cs",
+              "RelativeDocumentMoniker": "Persistence\\Entities\\AssetHistory.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Entities\\AssetHistory.cs",
+              "RelativeToolTip": "Persistence\\Entities\\AssetHistory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T00:08:54.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "InvestmentPortfolio.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Entities\\InvestmentPortfolio.cs",
+              "RelativeDocumentMoniker": "Persistence\\Entities\\InvestmentPortfolio.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Entities\\InvestmentPortfolio.cs",
+              "RelativeToolTip": "Persistence\\Entities\\InvestmentPortfolio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T00:24:52.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "InvestmentContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Contexts\\InvestmentContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\Contexts\\InvestmentContext.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Contexts\\InvestmentContext.cs",
+              "RelativeToolTip": "Persistence\\Contexts\\InvestmentContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T22:26:27.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Persistence\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Entities\\User.cs",
+              "RelativeToolTip": "Persistence\\Entities\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T00:28:14.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "InvestmentAsset.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Entities\\InvestmentAsset.cs",
+              "RelativeDocumentMoniker": "Persistence\\Entities\\InvestmentAsset.cs",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Entities\\InvestmentAsset.cs",
+              "RelativeToolTip": "Persistence\\Entities\\InvestmentAsset.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T01:15:31.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Persistence.csproj",
+              "RelativeDocumentMoniker": "Persistence\\Persistence.csproj",
+              "ToolTip": "C:\\Users\\DELL 5490\\Documents\\ProyectoDeAprendizajeP3\\Persistence\\Persistence.csproj",
+              "RelativeToolTip": "Persistence\\Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-09T22:38:56.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

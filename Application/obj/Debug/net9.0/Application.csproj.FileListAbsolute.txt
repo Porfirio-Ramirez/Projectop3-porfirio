@@ -1,0 +1,17 @@
+C:\Users\DELL 5490\Documents\ProyectoDeAprendizajeP3\Application\bin\Debug\net9.0\Application.deps.json
+C:\Users\DELL 5490\Documents\ProyectoDeAprendizajeP3\Application\bin\Debug\net9.0\Application.runtimeconfig.json
+C:\Users\DELL 5490\Documents\ProyectoDeAprendizajeP3\Application\bin\Debug\net9.0\Application.dll
+C:\Users\DELL 5490\Documents\ProyectoDeAprendizajeP3\Application\bin\Debug\net9.0\Application.pdb
+C:\Users\DELL 5490\Documents\ProyectoDeAprendizajeP3\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 5490\Documents\ProyectoDeAprendizajeP3\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+C:\Users\DELL 5490\Documents\ProyectoDeAprendizajeP3\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+C:\Users\DELL 5490\Documents\ProyectoDeAprendizajeP3\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5490\Documents\ProyectoDeAprendizajeP3\Application\obj\Debug\net9.0\Application.dll
+C:\Users\DELL 5490\Documents\ProyectoDeAprendizajeP3\Application\obj\Debug\net9.0\refint\Application.dll
+C:\Users\DELL 5490\Documents\ProyectoDeAprendizajeP3\Application\obj\Debug\net9.0\Application.pdb
+C:\Users\DELL 5490\Documents\ProyectoDeAprendizajeP3\Application\obj\Debug\net9.0\Application.genruntimeconfig.cache
+C:\Users\DELL 5490\Documents\ProyectoDeAprendizajeP3\Application\obj\Debug\net9.0\ref\Application.dll
+C:\Users\DELL 5490\Documents\ProyectoDeAprendizajeP3\Application\bin\Debug\net9.0\Persistence.dll
+C:\Users\DELL 5490\Documents\ProyectoDeAprendizajeP3\Application\bin\Debug\net9.0\Persistence.pdb
+C:\Users\DELL 5490\Documents\ProyectoDeAprendizajeP3\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+C:\Users\DELL 5490\Documents\ProyectoDeAprendizajeP3\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
