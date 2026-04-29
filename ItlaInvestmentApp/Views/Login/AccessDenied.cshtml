@@ -1,0 +1,23 @@
+﻿@using ProyectoDeAprendizajeP3.Core.Application.Interfaces
+@using ProyectoDeAprendizajeP3.Core.Domain.Common.Enum
+@inject IUserSession userSession;
+@{
+    UserViewModel? User = userSession.GetUserSession();
+}
+
+@{
+    ViewData["Title"] = "Access denied";
+    bool isAdmin = true;
+
+    if (User?.Role == (int)Rol.INVESTOR)
+    {
+        isAdmin = false;
+        Layout = "_LayoutInvestor";
+    }
+    
+}
+
+<div class="text-center">
+    <h1 class="display-4">Access denied</h1>
+    <p> Your user does not have permission to access this section - <a asp-controller="@(isAdmin ? "Home" : "InvestorHome")" asp-action="Index"><i class="bi bi-house-door"></i> Home</a> </p>
+</div>

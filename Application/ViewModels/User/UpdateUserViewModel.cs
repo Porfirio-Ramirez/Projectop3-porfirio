@@ -1,5 +1,6 @@
 ﻿
 
+using Microsoft.AspNetCore.Http;
 using System.ComponentModel.DataAnnotations;
 
 namespace ProyectoDeAprendizajeP3.Core.Application.ViewModels.User
@@ -35,8 +36,9 @@ namespace ProyectoDeAprendizajeP3.Core.Application.ViewModels.User
 
         [DataType(DataType.Text)]
         public string? Phone { get; set; }
+       
         [DataType(DataType.Upload)]
-        public string? ProfileImageFile { get; set; }
+        public IFormFile? ProfileImageFile { get; set; }
 
         [Range(1, int.MaxValue, ErrorMessage = "You must enter the valid role of user")]
         public required int Role { get; set; }

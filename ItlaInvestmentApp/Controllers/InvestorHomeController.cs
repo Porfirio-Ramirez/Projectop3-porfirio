@@ -1,30 +1,35 @@
+﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ProyectoDeAprendizajeP3.Core.Application.Interfaces;
-using System.Diagnostics;
 
 namespace ItlaInvestmentApp.Controllers
 {
-    public class HomeController : Controller
+    public class InvestorHomeController : Controller
     {
         private readonly IUserSession _usersession;
-        public HomeController(IUserSession userSession)
+
+        public InvestorHomeController(IUserSession userSession)
         {
             _usersession = userSession;
         }
-        public IActionResult Index()
+        public ActionResult Index()
         {
             if (!_usersession.HasUser())
             {
                 return RedirectToRoute(new { controller = "Login", action = "Index" });
             }
 
-            if (!_usersession.IsAdmin())
+            if (_usersession.IsAdmin())
             {
                 return RedirectToRoute(new { controller = "Login", action = "AccessDenied" });
             }
             return View();
         }
 
-       
+      
+
+        
+      
+        }
     }
-}
+

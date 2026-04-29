@@ -14,16 +14,25 @@ namespace ItlaInvestmentApp.Controllers
         private readonly IUserService _userService;
         private readonly IAssetService _assetService;
         private readonly IAssetTypeService _assetTypeService;
+        private readonly IUserSession _usersession;
 
-        public InvestmentPortfolioController(IInvestmentPortfolioService investmentPortfolioService, IUserService userService, IAssetTypeService assetTypeService, IAssetService assetService)
+        public InvestmentPortfolioController(IInvestmentPortfolioService investmentPortfolioService, IUserService userService, IAssetTypeService assetTypeService, IAssetService assetService, IUserSession userSession)
         {
             _investmentPortfolioService = investmentPortfolioService;
             _userService = userService;
             _assetTypeService = assetTypeService;
             _assetService = assetService;
+            _usersession = userSession;
         }
         public async Task<IActionResult> Index()
         {
+            if (!_usersession.HasUser())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "Index" });
+            }
+
+           
+
             var dtos = await _investmentPortfolioService.GetAllWithInclude();
 
             var listEntityVms = dtos.Select(s =>
@@ -41,7 +50,8 @@ namespace ItlaInvestmentApp.Controllers
                       LastName = s.user.LastName,
                       Role = s.user.Role,
                       Phone = s.user.Phone,
-                      ProfileImage = s.user.ProfileImage
+                      ProfileImage = s.user.ProfileImage,
+                      UserName = s.user.UserName
                   }
               }).ToList();
 
@@ -50,12 +60,26 @@ namespace ItlaInvestmentApp.Controllers
 
         public async Task<IActionResult> Create()
         {
+            if (!_usersession.HasUser())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "Index" });
+            }
+
+            
+
             ViewBag.Users = await _userService.GetAll();
             return View("Save", new SaveInvestmentPortfolioViewModel() { Name = "" });
         }
 
         public async Task<IActionResult> AssetsDetails(int portfolioId, string? assetName = null, int? assetTypeId = null, int? assetOrderBy = null)
         {
+            if (!_usersession.HasUser())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "Index" });
+            }
+
+           
+
             var portfolioDto = await _investmentPortfolioService.GetById(portfolioId);
 
             if (portfolioDto == null)
@@ -99,6 +123,13 @@ namespace ItlaInvestmentApp.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(SaveInvestmentPortfolioViewModel vm)
         {
+            if (!_usersession.HasUser())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "Index" });
+            }
+
+            
+
             if (!ModelState.IsValid)
             {
                 ViewBag.Users = await _userService.GetAll();
@@ -119,6 +150,12 @@ namespace ItlaInvestmentApp.Controllers
 
         public async Task<IActionResult> Edit(int id)
         {
+            if (!_usersession.HasUser())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "Index" });
+            }
+
+           
             if (!ModelState.IsValid)
             {
                 return RedirectToRoute(new { controller = "InvestmentPortfolio", action = "Index" });
@@ -146,6 +183,13 @@ namespace ItlaInvestmentApp.Controllers
         [HttpPost]
         public async Task<IActionResult> Edit(SaveInvestmentPortfolioViewModel vm)
         {
+            if (!_usersession.HasUser())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "Index" });
+            }
+
+           
+
 
             if (!ModelState.IsValid)
             {
@@ -167,6 +211,13 @@ namespace ItlaInvestmentApp.Controllers
 
         public async Task<IActionResult> Delete(int id)
         {
+            if (!_usersession.HasUser())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "Index" });
+            }
+
+          
+
             if (!ModelState.IsValid)
             {
                 return RedirectToRoute(new { controller = "InvestmentPortfolio", action = "Index" });
@@ -183,6 +234,13 @@ namespace ItlaInvestmentApp.Controllers
         [HttpPost]
         public async Task<IActionResult> Delete(DeleteInvestmentPortfolioViewModel vm)
         {
+            if (!_usersession.HasUser())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "Index" });
+            }
+
+           
+
             if (!ModelState.IsValid)
             {
                 return View(vm);

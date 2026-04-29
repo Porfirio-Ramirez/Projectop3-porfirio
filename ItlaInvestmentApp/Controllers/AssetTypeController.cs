@@ -10,13 +10,24 @@ namespace ItlaInvestmentApp.Controllers
     public class AssetTypeController : Controller
     {
         private readonly IAssetTypeService _assetTypeService;
+        private readonly IUserSession _usersession;
 
-        public AssetTypeController(IAssetTypeService assetTypeService)
+        public AssetTypeController(IAssetTypeService assetTypeService, IUserSession userSession)
         {
             _assetTypeService = assetTypeService;
+            _usersession = userSession;
         }
         public async Task<IActionResult> Index()
         {
+            if (!_usersession.HasUser())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "Index" });
+            }
+
+            if (!_usersession.IsAdmin())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "AccessDenied" });
+            }
             var dtos = await _assetTypeService.GetAllWithInclude();
 
             var listEntityVms = dtos.Select(s =>
@@ -33,6 +44,15 @@ namespace ItlaInvestmentApp.Controllers
 
         public IActionResult Create()
         {
+            if (!_usersession.HasUser())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "Index" });
+            }
+
+            if (!_usersession.IsAdmin())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "AccessDenied" });
+            }
 
             return View("Save", new SaveAssetTypeViewModel() { Name = "" });
         }
@@ -40,6 +60,15 @@ namespace ItlaInvestmentApp.Controllers
         [HttpPost]
         public async Task<IActionResult?> Create(SaveAssetTypeViewModel vm)
         {
+            if (!_usersession.HasUser())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "Index" });
+            }
+
+            if (!_usersession.IsAdmin())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "AccessDenied" });
+            }
             if (!ModelState.IsValid)
             {
                 return View("Save", vm);
@@ -61,6 +90,15 @@ namespace ItlaInvestmentApp.Controllers
 
         public async Task<IActionResult> Edit(int id)
         {
+            if (!_usersession.HasUser())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "Index" });
+            }
+
+            if (!_usersession.IsAdmin())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "AccessDenied" });
+            }
 
             if (!ModelState.IsValid)
             {
@@ -89,6 +127,15 @@ namespace ItlaInvestmentApp.Controllers
         [HttpPost]
         public async Task<IActionResult> Edit(SaveAssetTypeViewModel vm)
         {
+            if (!_usersession.HasUser())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "Index" });
+            }
+
+            if (!_usersession.IsAdmin())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "AccessDenied" });
+            }
             if (!ModelState.IsValid)
             {
                 ViewBag.EditMode = true;
@@ -110,6 +157,15 @@ namespace ItlaInvestmentApp.Controllers
         
         public async Task<IActionResult> Delete(int id)
         {
+            if (!_usersession.HasUser())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "Index" });
+            }
+
+            if (!_usersession.IsAdmin())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "AccessDenied" });
+            }
             if (!ModelState.IsValid)
             {
                 return RedirectToRoute(new { controller = "AssetType", action = "Index" });
@@ -134,6 +190,15 @@ namespace ItlaInvestmentApp.Controllers
         [HttpPost]
         public async Task<IActionResult> Delete(DeleteAssetTypeViewModel  vm)
         {
+            if (!_usersession.HasUser())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "Index" });
+            }
+
+            if (!_usersession.IsAdmin())
+            {
+                return RedirectToRoute(new { controller = "Login", action = "AccessDenied" });
+            }
             if (!ModelState.IsValid)
             {
                 ViewBag.EditMode = true;
