@@ -38,7 +38,7 @@ namespace ProyectoDeAprendizajeP3.Core.Application.Services
             };
             return null;
         }
-        public async Task<bool> AddAsync(SaveUserDto dto)
+        public async Task<UserDto?> AddAsync(SaveUserDto dto)
         {
 
             try
@@ -60,12 +60,21 @@ namespace ProyectoDeAprendizajeP3.Core.Application.Services
                 User? returnEntity = await _userRepository.AddAsync(entity);
                 if (returnEntity == null)
                 {
-                    return false;
+                    return null;
                 }
-                return true;
-            }catch (Exception)
+                return new UserDto()
+                {
+                    Id = returnEntity.Id,
+                    Name = returnEntity.Name,
+                    LastName = returnEntity.LastName,
+                    Role = returnEntity.Role,
+                    UserName = returnEntity.UserName,
+                    Email = returnEntity.Email
+                };
+            }
+            catch (Exception)
             {
-                return false;
+                return null;
             }
         }
 
